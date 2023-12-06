@@ -73,6 +73,9 @@ static const char *rangercmd[] = {"st", "-e", "ranger", NULL};
 static const char *pulsemixercmd[] = {"st", "-e", "pulsemixer", NULL};
 static const char *alsamixercmd[] = {"st", "-e", "alsamixer", NULL};
 
+static const char *incbrightness[] = {"adjust-brightness", "+", NULL};
+static const char *decbrightness[] = {"adjust-brightness", "-", NULL};
+
 static const char *irccmd[] = {"hexchat", NULL};
 static const char *discordcmd[] = {"discord", NULL};
 
@@ -110,6 +113,8 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_period, focusmon,       {.i = -1 } },
 	{ MODKEY|ShiftMask,             XK_comma,  tagmon,         {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_period, tagmon,         {.i = -1 } },
+	{ MODKEY,                       XK_F2,    spawn,          {.v = decbrightness } },
+	{ MODKEY,                       XK_F3,    spawn,          {.v = incbrightness } },
 	{ MODKEY,                       XK_F12,    spawn,          {.v = helpcmd } },
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)

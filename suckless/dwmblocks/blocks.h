@@ -5,6 +5,7 @@
 static const Block blocks[] = {
 	/*Icon*/ /*Command*/ /*Update Interval*/ /*Update Signal*/
 	{"\ Volume:", "pulsemixer --get-volume | sed 's/ .*//'", 5, 0},
+	{"Battery:", "battery-life", 10, 0},
 	{"Internet:", "internet-status", 10, 0},
 	{"", "date '+%b %d (%a) %I:%M%p'", 30, 0},
 };
