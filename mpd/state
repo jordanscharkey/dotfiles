@@ -1,0 +1,958 @@
+sw_volume: 50
+audio_device_state:1:pulse audio
+state: play
+current: 55
+time: 120.184000
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:A/Aesop Rock/Malibu Ken/A1  Corn Maze.mp3
+1:A/Aesop Rock/Malibu Ken/A2  Tuesday.mp3
+2:A/Aesop Rock/Malibu Ken/A3  Save Our Ship.mp3
+3:A/Aesop Rock/Malibu Ken/A4  Sword Box.mp3
+4:A/Aesop Rock/Malibu Ken/A5  Dog Years.mp3
+5:A/Aesop Rock/Malibu Ken/B1  Acid King.mp3
+6:A/Aesop Rock/Malibu Ken/B2  Suicide Big Gulp.mp3
+7:A/Aesop Rock/Malibu Ken/B3  1 + 1 = 13.mp3
+8:A/Aesop Rock/Malibu Ken/B4  Churro.mp3
+9:A/Aesop Rock/Malibu Ken/B5  Purple Moss.mp3
+10:A/Aesop Rock/Skelethon/01-Leisureforce.mp3
+11:A/Aesop Rock/Skelethon/02-ZZZ Top.mp3
+12:A/Aesop Rock/Skelethon/03-Cycles To Gehenna.mp3
+13:A/Aesop Rock/Skelethon/04-Zero Dark Thirty.mp3
+14:A/Aesop Rock/Skelethon/05-Fryerstarter.mp3
+15:A/Aesop Rock/Skelethon/06-Ruby '81.mp3
+16:A/Aesop Rock/Skelethon/07-Crows 1.mp3
+17:A/Aesop Rock/Skelethon/08-Crows 2.mp3
+18:A/Aesop Rock/Skelethon/09-Racing Stripes.mp3
+19:A/Aesop Rock/Skelethon/10-1,000 O'Clock.mp3
+20:A/Aesop Rock/Skelethon/11-Homemade Mummy.mp3
+21:A/Aesop Rock/Skelethon/12-Grace.mp3
+22:A/Aesop Rock/Skelethon/13-Saturn Missiles.mp3
+23:A/Aesop Rock/Skelethon/14-Tetra.mp3
+24:A/Aesop Rock/Skelethon/15-Gopher Guts.mp3
+25:A/Aesop Rock/Skelethon/16-Dokken Rules (Ft. Rob Sonic).mp3
+26:A/Aesop Rock/Skelethon/17-BMX (Ft. Blueprint & Rob Sonic).mp3
+27:A/Airospace/AZALEA/01 WAS GOING TO NAME THIS AFTER YOU BUT DECIDED NOT TO.mp3
+28:A/Airospace/AZALEA/02 $uICIDE.mp3
+29:A/Airospace/AZALEA/03 PORNHUB.mp3
+30:A/Airospace/AZALEA/04 MIRACLE AT THE MEADOW.mp3
+31:A/Airospace/AZALEA/05 AZALEA.mp3
+32:A/Airospace/AZALEA/06 I GUESS IM DOING THIS ALONE.mp3
+33:A/Airospace/AZALEA/07 ALABAMA AVE SE.mp3
+34:A/Airospace/AZALEA/08 GODSPEED YOU BLACK EMPEROR, Pt. 1.mp3
+35:A/Airospace/AZALEA/09 CRYATNITE.mp3
+36:A/Airospace/Vol I/01 Logistics (prod. Munoz).mp3
+37:A/Airospace/Vol I/02 Middle School (prod. Mndsgn).mp3
+38:A/Airospace/Vol I/03 阿良々木 暦 -P.B.B.- (prod. Ichiro_).mp3
+39:A/Airospace/Vol I/04 Untitled -feat. Cauzndefx- (prod. samiyam).mp3
+40:A/Airospace/Vol I/05 Circle (prod. Groundislava).mp3
+41:A/Airospace/Vol I/06 Reverse (prod. Mndsgn).mp3
+42:A/Airospace/Vol I/07 Susanna (prod. Groundislava).mp3
+43:A/Airospace/Vol I/08 Bloody Rose (prod. Ichiro_).mp3
+44:A/Airospace/Vol I/09 Gene Starwind (prod. Munoz).mp3
+45:A/Airospace/Vol I/10 The Ailment That We Call Envy (prod. Daisuke Tanabe).mp3
+46:A/Airospace/Vol I/11 戦場ヶ原 ひたぎ -Interlude- (prod. Ohbliv).mp3
+47:A/Airospace/Vol I/12 Antonym Subconscious Disruption (prod. Sunglitters).mp3
+48:A/Airospace/Vol II/01 Lucid (prod. Munoz).wav
+49:A/Airospace/Vol II/02 Earl Sweatshirt (prod. Munoz).wav
+50:A/Airospace/Vol II/03 阿良々木 暦 -BPR- (prod. FlyLo).wav
+51:A/Airospace/Vol II/04 Vagabond (prod. Pixelord).wav
+52:A/Airospace/Vol II/05 Glass (prod. Groundislava).wav
+53:A/Airospace/Vol II/06 Elevate (prod. Kankick).wav
+54:A/Airospace/Vol II/07 Ikigami, the Ultimate Limit (prod. Budamonk).wav
+55:A/Airospace/Vol II/08 Haruko (prod. Mndsgn).wav
+56:A/Airospace/Vol II/09 Sunshine Etrnl_Ramona's Envy (prod. Mndsgn).wav
+57:A/Airospace/Vol II/10 Meanwhile... (prod. Kankick).wav
+58:A/Airospace/Vol II/11 戦場ヶ原 ひたぎ-Interlude-.wav
+59:A/Airospace/Vol IV/01 Dialect (prod. matatabi).wav
+60:A/Airospace/Vol IV/02 I've Lied To You Long Enough (prod. Matatabi).wav
+61:A/Airospace/Vol IV/03 ハルハラ pt. 2 (prod. Junyii & Leaf Beach).wav
+62:A/Airospace/Vol IV/04 Anxiety (prod. Ichiro_).wav
+63:A/Airospace/Vol IV/05 Here We Go Again (prod. Kubes).wav
+64:A/Airospace/Vol IV/06 I Feel Like Killing Myself (prod. Kubes).wav
+65:A/Airospace/Vol IV/07 ハートアンダーブレード (prod. Matatabi).wav
+66:A/Airospace/Vol IV/08 Sunshine Etrnl_We're Better As Friends (prod. Matatabi - feat Rav).wav
+67:A/Airospace/Vol IV/09 Epilogue (prod. Beatboxbandit).wav
+68:A/Airospace/Vol IV/10 Human (prod. Tkdwn).wav
+69:A/Airospace/Vol IV/11 Lament (prod. Howie Wonder).wav
+70:A/Airospace/Vol IV/12 戦場ヶ原 ひたぎ - Interlude (prod. Tkdwn).wav
+71:A/Alchemist/This Thing Of Ours/11. Miracle Baby.mp3
+72:A/Alchemist/This Thing Of Ours/12. Lossless.mp3
+73:A/Alchemist/This Thing Of Ours/13. Flying Spirit.mp3
+74:A/Alchemist/This Thing Of Ours/14. Wildstyle.mp3
+75:A/Alchemist/This Thing Of Ours/15. 6 Five Heartbeats.mp3
+76:A/Animist/Apricity/01 apricity.mp3
+77:A/Animist/Apricity/02 drawing.mp3
+78:A/Animist/Apricity/03 i m-ss u.mp3
+79:A/Animist/Apricity/04 7 days.mp3
+80:A/Animist/Apricity/05 purple roses.mp3
+81:A/Animist/Apricity/06 picnic.mp3
+82:A/Animist/Apricity/07 one.mp3
+83:A/Animist/Apricity/08 smoothie.mp3
+84:A/Animist/Apricity/09 pain..mp3
+85:A/Animist/Apricity/10 midnight.mp3
+86:A/Animist/Apricity/11 minddd.mp3
+87:A/Animist/Apricity/12 u.mp3
+88:A/Animist/Apricity/13 stargazing.mp3
+89:A/Animist/Apricity/14 1 step at a time.mp3
+90:A/Animist/Apricity/15 lonely nb-.mp3
+91:A/Animist/Apricity/16 record store (i bought FOC deluxe).mp3
+92:A/Animist/Apricity/17 tarot.mp3
+93:A/Animist/Apricity/18 holding on.mp3
+94:A/Animist/Apricity/19 summer crush.mp3
+95:A/Animist/Apricity/20 trippin out of it.mp3
+96:A/Animist/Apricity/21 goodbye- ghosttt.mp3
+97:A/Animist/Apricity/22 moon rising (bonus track).mp3
+98:B/Billy Woods/Aethiopes/01. Asylum.mp3
+99:B/Billy Woods/Aethiopes/02. No Hard Feelings.mp3
+100:B/Billy Woods/Aethiopes/03. Wharves.mp3
+101:B/Billy Woods/Aethiopes/04. Sauvage.mp3
+102:B/Billy Woods/Aethiopes/05. The Doldrums.mp3
+103:B/Billy Woods/Aethiopes/06. NYNEX.mp3
+104:B/Billy Woods/Aethiopes/07. Christine.mp3
+105:B/Billy Woods/Aethiopes/08. Heavy Water.mp3
+106:B/Billy Woods/Aethiopes/09. Haarlem.mp3
+107:B/Billy Woods/Aethiopes/10. Versailles.mp3
+108:B/Billy Woods/Aethiopes/11. Protoevangelium.mp3
+109:B/Billy Woods/Aethiopes/12. Remorseless.mp3
+110:B/Billy Woods/Aethiopes/13. Smith + Cross.mp3
+111:B/brwnsounds/WITH LOVE/01 0-00.mp3
+112:B/brwnsounds/WITH LOVE/02 BRWN.mp3
+113:B/brwnsounds/WITH LOVE/03 03 (feat. EYESWIDESHUT).mp3
+114:B/brwnsounds/WITH LOVE/04 4YOU.mp3
+115:B/brwnsounds/WITH LOVE/05 WITH LOVE. (feat. Pink Siifu).mp3
+116:B/brwnsounds/WITH LOVE/06 DREAMS (feat. Sir Duke and Amoah).mp3
+117:B/brwnsounds/WITH LOVE/07 LUV(interlude).mp3
+118:B/brwnsounds/WITH LOVE/08 SAROS (feat. errybody).mp3
+119:B/brwnsounds/WITH LOVE/09 SOMETIMES-NEVERMIND.mp3
+120:B/brwnsounds/WITH LOVE/10 XVIII (the end).mp3
+121:B/brwnsounds/WITH LOVE/11 01.mp3
+122:B/brwnsounds/WITH LOVE/12 28.mp3
+123:B/brwnsounds/WITH LOVE/13 2003.mp3
+124:C/Cannibal Ox/The Cold Vein/01-Iron Galaxy (Ft. J Fluid).mp3
+125:C/Cannibal Ox/The Cold Vein/02-Ox Out The Cage (Ft. El-P).mp3
+126:C/Cannibal Ox/The Cold Vein/03-Atom (Ft. Alaska, Cryptic & Cip One).mp3
+127:C/Cannibal Ox/The Cold Vein/04-A B-Boy's Alpha (Ft. paWl).mp3
+128:C/Cannibal Ox/The Cold Vein/05-Raspberry Fields.mp3
+129:C/Cannibal Ox/The Cold Vein/06-Straight Off The D.I.C..mp3
+130:C/Cannibal Ox/The Cold Vein/07-Vein.mp3
+131:C/Cannibal Ox/The Cold Vein/08-The F-Word.mp3
+132:C/Cannibal Ox/The Cold Vein/09-Stress Rap (Ft. Cip One).mp3
+133:C/Cannibal Ox/The Cold Vein/10-Battle For Asgard (Ft. L.I.F.E. Long & C-Rayz Walz).mp3
+134:C/Cannibal Ox/The Cold Vein/11-Real Earth (Ft. Cip One).mp3
+135:C/Cannibal Ox/The Cold Vein/12-Ridiculoid (Ft. El-P).mp3
+136:C/Cannibal Ox/The Cold Vein/13-Painkillers.mp3
+137:C/Cannibal Ox/The Cold Vein/14-Pigeon.mp3
+138:C/Cannibal Ox/The Cold Vein/15-Scream Phoenix.mp3
+139:C/Chance The Rapper/10 Day/1 - 14,400 Minutes.mp3
+140:C/Chance The Rapper/10 Day/2 - Nostalgia.mp3
+141:C/Chance The Rapper/10 Day/3 - Missing You.mp3
+142:C/Chance The Rapper/10 Day/4 - Windows.mp3
+143:C/Chance The Rapper/10 Day/5 - Brain Cells.mp3
+144:C/Chance The Rapper/10 Day/6 - Long Time.mp3
+145:C/Chance The Rapper/10 Day/7 - 22 Offs.mp3
+146:C/Chance The Rapper/10 Day/8 - U Got Me Fucked Up.mp3
+147:C/Chance The Rapper/10 Day/9 - Family.mp3
+148:C/Chance The Rapper/10 Day/10 - Juke Juke.mp3
+149:C/Chance The Rapper/10 Day/11 - Fuck You Tahm Bout.mp3
+150:C/Chance The Rapper/10 Day/12 - Long Time II.mp3
+151:C/Chance The Rapper/10 Day/13 - Prom Night.mp3
+152:C/Chance The Rapper/10 Day/14 - Hey Ma.mp3
+153:C/Chance The Rapper/Acid Rap/01 Good Ass Intro.mp3
+154:C/Chance The Rapper/Acid Rap/02 Pusha Man & Paranoid.mp3
+155:C/Chance The Rapper/Acid Rap/03 Cocoa Butter Kisses.mp3
+156:C/Chance The Rapper/Acid Rap/04 Juice.mp3
+157:C/Chance The Rapper/Acid Rap/05 Lost.mp3
+158:C/Chance The Rapper/Acid Rap/06 Everybodys Something.mp3
+159:C/Chance The Rapper/Acid Rap/07 Thats Love (Interlude).mp3
+160:C/Chance The Rapper/Acid Rap/08 Favorite Song.mp3
+161:C/Chance The Rapper/Acid Rap/09 Nana.mp3
+162:C/Chance The Rapper/Acid Rap/10 Smoke Again.mp3
+163:C/Chance The Rapper/Acid Rap/11 Acid Rain.mp3
+164:C/Chance The Rapper/Acid Rap/12 Chain Smoker.mp3
+165:C/Chance The Rapper/Acid Rap/13 Everythings Good.mp3
+166:C/channelcasper/CHNNLS/01 Channels.mp3
+167:C/channelcasper/CHNNLS/02 Alias (feat. RedFacee).mp3
+168:C/channelcasper/CHNNLS/03 Like A Sailor (feat. Yzal the Praxis).mp3
+169:C/channelcasper/CHNNLS/04 Night & Day.mp3
+170:C/channelcasper/CHNNLS/05 Bleeding Aces (feat. Viracocha Mendoza).mp3
+171:C/channelcasper/CHNNLS/06 Different Lenses.mp3
+172:C/channelcasper/CHNNLS/07 07. 4Cast.mp3
+173:C/channelcasper/CHNNLS/08 Easy Bake (feat. Hailey Orion).mp3
+174:C/channelcasper/CHNNLS/09 Southpaw.mp3
+175:C/channelcasper/CHNNLS/10 Blue Screen.mp3
+176:C/Childish Gambino/Because The Internet/01 The Library (Intro).mp3
+177:C/Childish Gambino/Because The Internet/02 I_Crawl.mp3
+178:C/Childish Gambino/Because The Internet/03 II_ Worldstar.mp3
+179:C/Childish Gambino/Because The Internet/04 Dial up.mp3
+180:C/Childish Gambino/Because The Internet/05 I_ The Worst Guys (feat_ Chanc.mp3
+181:C/Childish Gambino/Because The Internet/06 II_ Shadows.mp3
+182:C/Childish Gambino/Because The Internet/07 III_ Telegraph Ave_ (_Oakland_.mp3
+183:C/Childish Gambino/Because The Internet/08 IV_ Sweatpants.mp3
+184:C/Childish Gambino/Because The Internet/09 3005.mp3
+185:C/Childish Gambino/Because The Internet/10 Playing Around Before The Part.mp3
+186:C/Childish Gambino/Because The Internet/11 I_ The Party.mp3
+187:C/Childish Gambino/Because The Internet/12 II_ No Exit.mp3
+188:C/Childish Gambino/Because The Internet/13 Death By Numbers.mp3
+189:C/Childish Gambino/Because The Internet/14 I_ Flight Of The Navigator.mp3
+190:C/Childish Gambino/Because The Internet/15 II_ Zealots Of Stockholm _Free.mp3
+191:C/Childish Gambino/Because The Internet/16 III_ Urn.mp3
+192:C/Childish Gambino/Because The Internet/17 I_ Pink Toes (feat_ Jhene Aiko.mp3
+193:C/Childish Gambino/Because The Internet/18 II_ Earth_ The Oldest Computer.mp3
+194:C/Childish Gambino/Because The Internet/19 III_ Life_ The Biggest Troll _.mp3
+195:C/Childish Gambino/Camp/01 Outside.mp3
+196:C/Childish Gambino/Camp/02 Fire Fly.mp3
+197:C/Childish Gambino/Camp/03 Bonfire.mp3
+198:C/Childish Gambino/Camp/04 All The Shine.mp3
+199:C/Childish Gambino/Camp/05 Letter Home.mp3
+200:C/Childish Gambino/Camp/06 Heartbeat.mp3
+201:C/Childish Gambino/Camp/07 Backpackers.mp3
+202:C/Childish Gambino/Camp/08 LES.mp3
+203:C/Childish Gambino/Camp/09 Hold You Down.mp3
+204:C/Childish Gambino/Camp/10 Kids.mp3
+205:C/Childish Gambino/Camp/11 You See Me.mp3
+206:C/Childish Gambino/Camp/12 Sunrise.mp3
+207:C/Childish Gambino/Camp/13 That Power.mp3
+208:C/Childish Gambino/Royalty/01 - R O Y A L T Y.mp3
+209:C/Childish Gambino/Royalty/02 - We Aint Them prod Childish Gambino and Ludwig.mp3
+210:C/Childish Gambino/Royalty/03 - One Up (ft Steve G Lover) prod Childish Gambino.mp3
+211:C/Childish Gambino/Royalty/04 - Black Faces (ft Nipsey Hussle) prod Boi-1da.mp3
+212:C/Childish Gambino/Royalty/05 - Unnecessary (ft Schoolboy Q and Ab-Soul) prod Childish Gambino.mp3
+213:C/Childish Gambino/Royalty/06 - Shoulda Known prod Childish Gambino.mp3
+214:C/Childish Gambino/Royalty/07 - RIP (ft Bun B) prod Childish Gambino.mp3
+215:C/Childish Gambino/Royalty/08 - American Royalty (ft RZA and Hypnotic Brass Orchestra) prod Childish Gambino.mp3
+216:C/Childish Gambino/Royalty/09 - It May Be Glamour Life (ft Ghostface Killah) prod Myke Murda.mp3
+217:C/Childish Gambino/Royalty/10 - Toxic (ft Danny Brown) prod skywlkr.mp3
+218:C/Childish Gambino/Royalty/11 - Silk Pillow (ft Beck) prod Beck and Childish Gambino.mp3
+219:C/Childish Gambino/Royalty/12 - They Dont Like Me (ft Chance the Rapper) prod skywklr.mp3
+220:C/Childish Gambino/Royalty/13 - Arrangement (ft Gonage) prod Childish Gambino.mp3
+221:C/Childish Gambino/Royalty/14 - Wont Stop (ft Danielle Haim of HAIM) prod Childish Gambino and Ludwig.mp3
+222:C/Childish Gambino/Royalty/15 - Bronchitis prod Beck.mp3
+223:C/Childish Gambino/Royalty/16 - Wonderful (ft Josh Osho) prod Boi-1da.mp3
+224:C/Childish Gambino/Royalty/17 - Make It Go Right (ft Kilo Kish) prod Childish Gambino.mp3
+225:C/Childish Gambino/Royalty/18 - Real Estate (ft Alley Boy Swank and Tina Fey) prod Childish Gambino.mp3
+226:C/Comethazine/Bawskee/01 Walk.mp3
+227:C/Comethazine/Bawskee/02 V12.mp3
+228:C/Comethazine/Bawskee/03 Bands.mp3
+229:C/Comethazine/Bawskee/04 No Discussion.mp3
+230:C/Comethazine/Bawskee/05 Blicky.mp3
+231:C/Comethazine/Bawskee/06 My Way.mp3
+232:C/Comethazine/Bawskee/07 Let It Eat.mp3
+233:C/Comethazine/Bawskee/08 Sick Shit.mp3
+234:C/Comethazine/Bawskee/09 Bring Dat Bag Out.mp3
+235:C/Comethazine/Bawskee/10 Mans.mp3
+236:C/Comethazine/Bawskee/11 If I Got To.mp3
+237:C/Comethazine/Bawskee/12 No Ex.mp3
+238:C/Comethazine/Bawskee/13 Oowee.mp3
+239:C/Comethazine/Bawskee/14 Pneumonia.mp3
+240:C/Comethazine/Bawskee/15 Sticks Out The Window.mp3
+241:C/Comethazine/Bawskee/16 Hero.mp3
+242:C/Comethazine/Bawskee/17 Demi.mp3
+243:C/Comethazine/Bawskee/18 Piped Up.mp3
+244:D/Deltron 3030/Deltron 3030/01 State Of The Nation.mp3
+245:D/Deltron 3030/Deltron 3030/02 3030.mp3
+246:D/Deltron 3030/Deltron 3030/03 The Fantabulous Rap Extravaganza.mp3
+247:D/Deltron 3030/Deltron 3030/04 Things You Can Do.mp3
+248:D/Deltron 3030/Deltron 3030/05 Positive Contact.mp3
+249:D/Deltron 3030/Deltron 3030/06 St. Catherine St..mp3
+250:D/Deltron 3030/Deltron 3030/07 Virus.mp3
+251:D/Deltron 3030/Deltron 3030/08 Upgrade (A Brymar College Course).mp3
+252:D/Deltron 3030/Deltron 3030/09 New Coke.mp3
+253:D/Deltron 3030/Deltron 3030/10 Mastermind.mp3
+254:D/Deltron 3030/Deltron 3030/11 National Movie Review.mp3
+255:D/Deltron 3030/Deltron 3030/12 Madness.mp3
+256:D/Deltron 3030/Deltron 3030/13 Meet Cleofis Randolph The Patriarch.mp3
+257:D/Deltron 3030/Deltron 3030/14 Time Keeps On Slipping.mp3
+258:D/Deltron 3030/Deltron 3030/15 The News (A Wholly Owned Subsidiary Of Microsoft Inc.).mp3
+259:D/Deltron 3030/Deltron 3030/16 Turbulence (Mark Bell Remix).mp3
+260:D/Deltron 3030/Deltron 3030/17 The Fantabulous Rap Extravaganza Pt. II.mp3
+261:D/Deltron 3030/Deltron 3030/18 Battlesong.mp3
+262:D/Deltron 3030/Deltron 3030/19 Love Story.mp3
+263:D/Deltron 3030/Deltron 3030/20 Memory Loss.mp3
+264:D/Deltron 3030/Deltron 3030/21 The Assman 640 Speaks.mp3
+265:D/Denzel Curry/UNLOCKED/01 Track 01.mp3
+266:D/Denzel Curry/UNLOCKED/02 Take It Back v2.mp3
+267:D/Denzel Curry/UNLOCKED/03 Lay Up.m4a.mp3
+268:D/Denzel Curry/UNLOCKED/04 Pyro (Leak 2019).mp3
+269:D/Denzel Curry/UNLOCKED/05 DIET_.mp3
+270:D/Denzel Curry/UNLOCKED/06 So.Incredible.pkg.mp3
+271:D/Denzel Curry/UNLOCKED/07 Track07.mp3
+272:D/Denzel Curry/UNLOCKED/08 'Cosmic'.m4a.mp3
+273:D/Dilla/Donuts/01-Donuts (Outro).mp3
+274:D/Dilla/Donuts/02-Workinonit.mp3
+275:D/Dilla/Donuts/03-Waves.mp3
+276:D/Dilla/Donuts/04-Light My Fire.mp3
+277:D/Dilla/Donuts/05-The New.mp3
+278:D/Dilla/Donuts/06-Stop.mp3
+279:D/Dilla/Donuts/07-People.mp3
+280:D/Dilla/Donuts/08-The Diff'rence.mp3
+281:D/Dilla/Donuts/09-Mash.mp3
+282:D/Dilla/Donuts/10-Time The Donut Of The Heart.mp3
+283:D/Dilla/Donuts/11-Glazed.mp3
+284:D/Dilla/Donuts/12-Airworks.mp3
+285:D/Dilla/Donuts/13-Lightworks.mp3
+286:D/Dilla/Donuts/14-Stepson Of The Clapper.mp3
+287:D/Dilla/Donuts/15-The Twister (Huh, What).mp3
+288:D/Dilla/Donuts/16-One Eleven.mp3
+289:D/Dilla/Donuts/17-Two Can Win.mp3
+290:D/Dilla/Donuts/18-Don't Cry.mp3
+291:D/Dilla/Donuts/19-Anti-American Graffiti.mp3
+292:D/Dilla/Donuts/20-Geek Down.mp3
+293:D/Dilla/Donuts/21-Thunder.mp3
+294:D/Dilla/Donuts/22-Gobstopper.mp3
+295:D/Dilla/Donuts/23-One For Ghost.mp3
+296:D/Dilla/Donuts/24-Dilla Says Go.mp3
+297:D/Dilla/Donuts/25-Walkinonit.mp3
+298:D/Dilla/Donuts/26-The Factory.mp3
+299:D/Dilla/Donuts/27-U-Love.mp3
+300:D/Dilla/Donuts/28-Hi.mp3
+301:D/Dilla/Donuts/29-Bye.mp3
+302:D/Dilla/Donuts/30-Last Donut Of The Night.mp3
+303:D/Dilla/Donuts/31-Welcome To The Show.mp3
+304:D/DJ Shadow/Endtroducing...../01 Best Foot Forward.mp3
+305:D/DJ Shadow/Endtroducing...../02 Building Steam With A Grain Of Salt.mp3
+306:D/DJ Shadow/Endtroducing...../03 the Number Song.mp3
+307:D/DJ Shadow/Endtroducing...../04 Changeling.mp3
+308:D/DJ Shadow/Endtroducing...../05 Stem Long Stem.mp3
+309:D/DJ Shadow/Endtroducing...../06 Mutual Slump.mp3
+310:D/DJ Shadow/Endtroducing...../07 Organ Donor.mp3
+311:D/DJ Shadow/Endtroducing...../08 Why Hip Hop Sucks In 96.mp3
+312:D/DJ Shadow/Endtroducing...../09 Midnight In A Perfect World.mp3
+313:D/DJ Shadow/Endtroducing...../10 Napalm Brain Scatter Brain.mp3
+314:D/DJ Shadow/Endtroducing...../11 What Does Your Soul Look Like (Pt. 1).mp3
+315:D/Domo Genesis/Genesis/01. Awkward Groove.mp3
+316:D/Domo Genesis/Genesis/02. One Below.mp3
+317:D/Domo Genesis/Genesis/03. Wanderer (feat. Tay Walker).mp3
+318:D/Domo Genesis/Genesis/04. Questions (feat. Da$h & Kendra Foster).mp3
+319:D/Domo Genesis/Genesis/05. My Own (feat. JMSN).mp3
+320:D/Domo Genesis/Genesis/06. Go (Gas) [feat. Wiz Khalifa, Juicy J, & Tyler, The Creator].mp3
+321:D/Domo Genesis/Genesis/07. Coming Back (feat. Mac Miller).mp3
+322:D/Domo Genesis/Genesis/08. Faded In The Moment (feat. Cam O'bi).mp3
+323:D/Domo Genesis/Genesis/09. Dapper (feat. Anderson .Paak).mp3
+324:D/Domo Genesis/Genesis/10. Brotha.mp3
+325:D/Domo Genesis/Genesis/11. All Night (feat. King Chip).mp3
+326:D/Domo Genesis/Genesis/12. Lost And Found.mp3
+327:D/DOOM/Born Like This/01 Supervillain (Intro).mp3
+328:D/DOOM/Born Like This/02 Gazzillion Ear.mp3
+329:D/DOOM/Born Like This/03 Ballskin.mp3
+330:D/DOOM/Born Like This/04 Yessir! (Ft. Raekwon).mp3
+331:D/DOOM/Born Like This/05 Absolutely.mp3
+332:D/DOOM/Born Like This/06 Rap Ambush.mp3
+333:D/DOOM/Born Like This/07 Lightworks.mp3
+334:D/DOOM/Born Like This/08 Batty Boyz.mp3
+335:D/DOOM/Born Like This/09 Angelz (Ft. Ghostface Killah).mp3
+336:D/DOOM/Born Like This/10 Cellz.mp3
+337:D/DOOM/Born Like This/11 Still Dope (Ft. Empress Sharhh).mp3
+338:D/DOOM/Born Like This/12 Microwave Mayo.mp3
+339:D/DOOM/Born Like This/13 More Rhymin (Ft. Kurious).mp3
+340:D/DOOM/Born Like This/14 Thats That.mp3
+341:D/DOOM/Born Like This/15 Supervillainz.mp3
+342:D/DOOM/Born Like This/16 Bumpys Message.mp3
+343:D/DOOM/Born Like This/17 Thank Yah.mp3
+344:D/DOOM/Madvillainy/01 The Illest Villains.flac
+345:D/DOOM/Madvillainy/02 Accordion.flac
+346:D/DOOM/Madvillainy/03 Meat Grinder.flac
+347:D/DOOM/Madvillainy/04 Bistro.flac
+348:D/DOOM/Madvillainy/05 Raid.flac
+349:D/DOOM/Madvillainy/06 Americas Most Blunted.flac
+350:D/DOOM/Madvillainy/07 Sickfit.flac
+351:D/DOOM/Madvillainy/08 Rainbows.flac
+352:D/DOOM/Madvillainy/09 Curls.flac
+353:D/DOOM/Madvillainy/10 Do Not Fire!.flac
+354:D/DOOM/Madvillainy/11 Money Folder.flac
+355:D/DOOM/Madvillainy/12 Shadows of Tomorrow.flac
+356:D/DOOM/Madvillainy/13 Operation Lifesaver aka Mint Test.flac
+357:D/DOOM/Madvillainy/14 Figaro.flac
+358:D/DOOM/Madvillainy/15 Hardcore Hustle.flac
+359:D/DOOM/Madvillainy/16 Strange Ways.flac
+360:D/DOOM/Madvillainy/17 Fancy Clowns.flac
+361:D/DOOM/Madvillainy/18 Eye.flac
+362:D/DOOM/Madvillainy/19 Supervillain Theme.flac
+363:D/DOOM/Madvillainy/20 All Caps.flac
+364:D/DOOM/Madvillainy/21 Great Day.flac
+365:D/DOOM/Madvillainy/22 Rhinestone Cowboy.flac
+366:D/DOOM/Mm Food/01-Beef Rapp.mp3
+367:D/DOOM/Mm Food/02-Hoe Cakes.mp3
+368:D/DOOM/Mm Food/03-Potholderz (Ft. Count Bass D).mp3
+369:D/DOOM/Mm Food/04-One Beer.mp3
+370:D/DOOM/Mm Food/05-Deep Fried Frenz.mp3
+371:D/DOOM/Mm Food/06-Poo-Putt Platter.mp3
+372:D/DOOM/Mm Food/07-Fillet-O-Rapper.mp3
+373:D/DOOM/Mm Food/08-Gumbo.mp3
+374:D/DOOM/Mm Food/09-Fig Leaf Bi-Carbonate.mp3
+375:D/DOOM/Mm Food/10-Kon Karne.mp3
+376:D/DOOM/Mm Food/11-Guinesses (Ft. Angelika & 4ize).mp3
+377:D/DOOM/Mm Food/12-Kon Queso.mp3
+378:D/DOOM/Mm Food/13-Rapp Snitch Knishes (Ft. Mr. Fantastik).mp3
+379:D/DOOM/Mm Food/14-Vomitspit.mp3
+380:D/DOOM/Mm Food/15-Kookies.mp3
+381:D/Drake/Nothing Was The Same/01 - Drake - Tuscan Leather.mp3
+382:D/Drake/Nothing Was The Same/02 - Drake - Furthest Thing.mp3
+383:D/Drake/Nothing Was The Same/03 - Drake - Started From The Bottom.mp3
+384:D/Drake/Nothing Was The Same/04 - Drake - Wu-Tang Forever.mp3
+385:D/Drake/Nothing Was The Same/05 - Drake - Own It.mp3
+386:D/Drake/Nothing Was The Same/06 - Drake - Worst Behavior.mp3
+387:D/Drake/Nothing Was The Same/07 - Drake - From Time (Feat. Jhene Aiko).mp3
+388:D/Drake/Nothing Was The Same/08 - Drake - Hold On, We're Going Home (Feat. Majid Jordan).mp3
+389:D/Drake/Nothing Was The Same/09 - Drake - Connect.mp3
+390:D/Drake/Nothing Was The Same/10 - Drake - The Language.mp3
+391:D/Drake/Nothing Was The Same/11 - Drake - 305 To My City (Feat. Detail).mp3
+392:D/Drake/Nothing Was The Same/12 - Drake - Too Much (Feat. Sampha).mp3
+393:D/Drake/Nothing Was The Same/13 - Drake - Pound Cake-Paris Morton Music 2 (Feat. Jay-Z).mp3
+394:D/Drake/Nothing Was The Same/14 - Drake - Come Thru.mp3
+395:D/Drake/Nothing Was The Same/15 - Drake - All Me (Feat. Big Sean & 2 Chainz).mp3
+396:D/Drake/Nothing Was The Same/16 - Drake - The Motion (Feat. Sampha).mp3
+397:E/Earl Sweatshirt/Doris/01-Pre (Ft. SK La' Flare).mp3
+398:E/Earl Sweatshirt/Doris/02-Burgundy (F. Vince Staples).mp3
+399:E/Earl Sweatshirt/Doris/03-20 Wave Caps (Ft. Domo Genesis).mp3
+400:E/Earl Sweatshirt/Doris/04-Sunday (Ft. Frank Ocean).mp3
+401:E/Earl Sweatshirt/Doris/05-Hive (Ft. Vince Staples & Casey Veggies).mp3
+402:E/Earl Sweatshirt/Doris/06-Chum.mp3
+403:E/Earl Sweatshirt/Doris/07-Sasquatch (Ft. Tyler, The Creator).mp3
+404:E/Earl Sweatshirt/Doris/08-Centurion (Ft. Vince Staples).mp3
+405:E/Earl Sweatshirt/Doris/09-523.mp3
+406:E/Earl Sweatshirt/Doris/10-Uncle Al.mp3
+407:E/Earl Sweatshirt/Doris/11-Guild (Ft. Mac Miller).mp3
+408:E/Earl Sweatshirt/Doris/12-Molasses (Ft. RZA).mp3
+409:E/Earl Sweatshirt/Doris/13-Whoa (Ft. Tyler, The Creator).mp3
+410:E/Earl Sweatshirt/Doris/14-Hoarse.mp3
+411:E/Earl Sweatshirt/Doris/15-Knight (Ft. Domo Genesis).mp3
+412:E/Earl Sweatshirt/Duality/01 play it cool (intro).mp3
+413:E/Earl Sweatshirt/Duality/02 mirror.mp3
+414:E/Earl Sweatshirt/Duality/03 quest-power.mp3
+415:E/Earl Sweatshirt/Duality/04 45.mp3
+416:E/Earl Sweatshirt/Duality/05 balance.mp3
+417:E/Earl Sweatshirt/Duality/06 death wishes.mp3
+418:E/Earl Sweatshirt/Duality/07 bary.mp3
+419:E/Earl Sweatshirt/Duality/08 gamebreaker.mp3
+420:E/Earl Sweatshirt/Duality/09 between friends.mp3
+421:E/Earl Sweatshirt/Duality/10 wind in my sails.mp3
+422:E/Earl Sweatshirt/Duality/11 one take.mp3
+423:E/Earl Sweatshirt/Duality/11 robes.mp3
+424:E/Earl Sweatshirt/Duality/12 molasses.mp3
+425:E/Earl Sweatshirt/Duality/13 between villains.mp3
+426:E/Earl Sweatshirt/Duality/14 warlord leather.mp3
+427:E/Earl Sweatshirt/Duality/15 pelicula.mp3
+428:E/Earl Sweatshirt/Feet Of Clay/01-74.mp3
+429:E/Earl Sweatshirt/Feet Of Clay/02-EAST.mp3
+430:E/Earl Sweatshirt/Feet Of Clay/03-MTOMB (Ft. Liv.e).mp3
+431:E/Earl Sweatshirt/Feet Of Clay/04-OD.mp3
+432:E/Earl Sweatshirt/Feet Of Clay/05-EL TORO COMBO MEAL (Ft. Mavi).mp3
+433:E/Earl Sweatshirt/Feet Of Clay/06-TISK TISK ／ COOKIES.mp3
+434:E/Earl Sweatshirt/Feet Of Clay/07-4N (Ft. Mach-Hommy).mp3
+435:E/Earl Sweatshirt/Feet Of Clay/08-GHOST (Ft. Navy Blue).mp3
+436:E/Earl Sweatshirt/Feet Of Clay/09-WHOLE WORLD (Ft. Maxo).mp3
+437:E/Earl Sweatshirt/IDLSIDGO/01 Huey.mp3
+438:E/Earl Sweatshirt/IDLSIDGO/02 Mantra.mp3
+439:E/Earl Sweatshirt/IDLSIDGO/03 Faucet.mp3
+440:E/Earl Sweatshirt/IDLSIDGO/04 Grief.mp3
+441:E/Earl Sweatshirt/IDLSIDGO/05 Off Top.mp3
+442:E/Earl Sweatshirt/IDLSIDGO/06 Grown Ups (Ft. Dash).mp3
+443:E/Earl Sweatshirt/IDLSIDGO/07 AM Radio.mp3
+444:E/Earl Sweatshirt/IDLSIDGO/08 Inside.mp3
+445:E/Earl Sweatshirt/IDLSIDGO/09 DNA (Ft. NaKel).mp3
+446:E/Earl Sweatshirt/IDLSIDGO/10 Wool (Ft. Vince Staples).mp3
+447:E/Earl Sweatshirt/Sick!/01. Old Friend.mp3
+448:E/Earl Sweatshirt/Sick!/02. 2010.mp3
+449:E/Earl Sweatshirt/Sick!/03. Sick!.mp3
+450:E/Earl Sweatshirt/Sick!/04. Vision (feat. Zelooperz).mp3
+451:E/Earl Sweatshirt/Sick!/05. Tabula Rasa (feat. Armand Hammer).mp3
+452:E/Earl Sweatshirt/Sick!/06. Lye.mp3
+453:E/Earl Sweatshirt/Sick!/07. Lobby (int).mp3
+454:E/Earl Sweatshirt/Sick!/08. God Laughs.mp3
+455:E/Earl Sweatshirt/Sick!/09. Titanic.mp3
+456:E/Earl Sweatshirt/Sick!/10. Fire in the Hole.mp3
+457:E/Earl Sweatshirt/Solace/Solace.mp3
+458:E/Earl Sweatshirt/Some Rap Songs/01. Shattered Dreams.mp3
+459:E/Earl Sweatshirt/Some Rap Songs/02. Red Water.mp3
+460:E/Earl Sweatshirt/Some Rap Songs/03. Cold Summers.mp3
+461:E/Earl Sweatshirt/Some Rap Songs/04. Nowhere2go.mp3
+462:E/Earl Sweatshirt/Some Rap Songs/05. December 24.mp3
+463:E/Earl Sweatshirt/Some Rap Songs/06. Ontheway!.mp3
+464:E/Earl Sweatshirt/Some Rap Songs/07. The Mint.mp3
+465:E/Earl Sweatshirt/Some Rap Songs/08. The Bends.mp3
+466:E/Earl Sweatshirt/Some Rap Songs/09. Loosie.mp3
+467:E/Earl Sweatshirt/Some Rap Songs/10. Azucar.mp3
+468:E/Earl Sweatshirt/Some Rap Songs/11. Eclipse.mp3
+469:E/Earl Sweatshirt/Some Rap Songs/12. Veins.mp3
+470:E/Earl Sweatshirt/Some Rap Songs/13. Playing Possum.mp3
+471:E/Earl Sweatshirt/Some Rap Songs/14. Peanut.mp3
+472:E/Earl Sweatshirt/Some Rap Songs/15. Riot!.mp3
+473:E/El-P/Fantastic Damage/01-Fantastic Damage.mp3
+474:E/El-P/Fantastic Damage/02-Squeegee Man Shooting.mp3
+475:E/El-P/Fantastic Damage/03-Deep Space 9mm.mp3
+476:E/El-P/Fantastic Damage/04-Tuned Mass Damper.mp3
+477:E/El-P/Fantastic Damage/05-Dead Disnee.mp3
+478:E/El-P/Fantastic Damage/06-Delorean (Ft. Aesop Rock & ILL BILL).mp3
+479:E/El-P/Fantastic Damage/07-Truancy.mp3
+480:E/El-P/Fantastic Damage/08-The Nang, The Front, The Bush And The Shit.mp3
+481:E/El-P/Fantastic Damage/09-Accident's Don't Happen (Ft. Cage & Camu Tao).mp3
+482:E/El-P/Fantastic Damage/10-Stepfather Factory.mp3
+483:E/El-P/Fantastic Damage/11-T.O.J..mp3
+484:E/El-P/Fantastic Damage/12-Dr. Hellno And The Praying Mantus (Ft. Vast Aire).mp3
+485:E/El-P/Fantastic Damage/13-Lazerfaces' Warning.mp3
+486:E/El-P/Fantastic Damage/14-Innocent Leader.mp3
+487:E/El-P/Fantastic Damage/15-Constellation Funk.mp3
+488:E/El-P/Fantastic Damage/16-Blood (Ft. Mr. Lif & C-Rayz Walz).mp3
+489:E/Eminem/The Marshall Mathers LP/01. Eminem - Public Servive Announcement 2000.mp3
+490:E/Eminem/The Marshall Mathers LP/02. Eminem - Kill You.mp3
+491:E/Eminem/The Marshall Mathers LP/03. Eminem - Stan feat. Dido.mp3
+492:E/Eminem/The Marshall Mathers LP/04. Eminem - Paul (skit).mp3
+493:E/Eminem/The Marshall Mathers LP/05. Eminem - Who Knew.mp3
+494:E/Eminem/The Marshall Mathers LP/06. Eminem - Steve Berman.mp3
+495:E/Eminem/The Marshall Mathers LP/07. Eminem - The Way I Am.mp3
+496:E/Eminem/The Marshall Mathers LP/08. Eminem - The Real Slim Shady.mp3
+497:E/Eminem/The Marshall Mathers LP/09. Eminem - Remember Me feat. RBX & Sticky Fingaz.mp3
+498:E/Eminem/The Marshall Mathers LP/10. Eminem - I'm Back.mp3
+499:E/Eminem/The Marshall Mathers LP/11. Eminem - Marshall Mathers.mp3
+500:E/Eminem/The Marshall Mathers LP/12. Eminem - Ken Kaniff (skit).mp3
+501:E/Eminem/The Marshall Mathers LP/13. Eminem - Drug Ballad.mp3
+502:E/Eminem/The Marshall Mathers LP/14. Eminem - Amityville feat. Bizarre from D-12.mp3
+503:E/Eminem/The Marshall Mathers LP/15. Eminem - Bitch Please II.mp3
+504:E/Eminem/The Marshall Mathers LP/16. Eminem - Kim.mp3
+505:E/Eminem/The Marshall Mathers LP/17. Eminem - Under The Influence feat D-12.mp3
+506:E/Eminem/The Marshall Mathers LP/18. Eminem - Criminal.mp3
+507:F/Flying Lotus/1983/01 1983.mp3
+508:F/Flying Lotus/1983/02 Sao Paulo.mp3
+509:F/Flying Lotus/1983/03 Bad Actors.mp3
+510:F/Flying Lotus/1983/04 Orbit Brazil.mp3
+511:F/Flying Lotus/1983/05 Shifty.mp3
+512:F/Flying Lotus/1983/06 Babble.mp3
+513:F/Flying Lotus/1983/07 Pet Monster Shotglass.mp3
+514:F/Flying Lotus/1983/08 Hello.mp3
+515:F/Flying Lotus/1983/09 Untitled #7.mp3
+516:F/Flying Lotus/1983/10 Unexpected Delight.mp3
+517:H/Hodgy/Fireplace/01-Nitro.mp3
+518:H/Hodgy/Fireplace/02-Kundalini (Ft. Salomon Faye).mp3
+519:H/Hodgy/Fireplace/03-Barbell.mp3
+520:H/Hodgy/Fireplace/04-Resurrection.mp3
+521:H/Hodgy/Fireplace/05-They Want.mp3
+522:H/Hodgy/Fireplace/06-Final Hour (Ft. Busta Rhymes).mp3
+523:H/Hodgy/Fireplace/07-Glory.mp3
+524:H/Hodgy/Fireplace/08-Laguna.mp3
+525:H/Hodgy/Fireplace/09-Turkuoise.mp3
+526:H/Hodgy/Fireplace/10-Tape Beat (Ft. Lil' Wayne).mp3
+527:H/Hodgy/Fireplace/11-Dreaminofthinkin.mp3
+528:H/Hodgy/Fireplace/12-The Now.mp3
+529:H/Hodgy/Fireplace/13-DYSLM.mp3
+530:J/J Cole/2014 Forest Hills Drive/14 No Role Modelz (Sped-Up Version).mp3
+531:J/J Cole/2014 Forest Hills Drive/01 Intro.mp3
+532:J/J Cole/2014 Forest Hills Drive/02 January 28th.mp3
+533:J/J Cole/2014 Forest Hills Drive/03 Wet Dreamz.mp3
+534:J/J Cole/2014 Forest Hills Drive/04 03' Adolescence.mp3
+535:J/J Cole/2014 Forest Hills Drive/05 A Tale of 2 Citiez.mp3
+536:J/J Cole/2014 Forest Hills Drive/06 Fire Squad.mp3
+537:J/J Cole/2014 Forest Hills Drive/07 St_ Tropez.mp3
+538:J/J Cole/2014 Forest Hills Drive/08 G_O_M_D_.mp3
+539:J/J Cole/2014 Forest Hills Drive/09 No Role Modelz.mp3
+540:J/J Cole/2014 Forest Hills Drive/10 Hello.mp3
+541:J/J Cole/2014 Forest Hills Drive/11 Apparently.mp3
+542:J/J Cole/2014 Forest Hills Drive/12 Love Yourz.mp3
+543:J/J Cole/2014 Forest Hills Drive/13 Note to Self.mp3
+544:K/Kanye West/808s & Heartbreaks/01 - Say You Will - Kanye West.mp3
+545:K/Kanye West/808s & Heartbreaks/02 - Welcome To Heartbreak - Kanye West.mp3
+546:K/Kanye West/808s & Heartbreaks/03 - Heartless - Kanye West.mp3
+547:K/Kanye West/808s & Heartbreaks/04 - Amazing - Kanye West.mp3
+548:K/Kanye West/808s & Heartbreaks/05 - Love Lockdown - Kanye West.mp3
+549:K/Kanye West/808s & Heartbreaks/06 - Paranoid - Kanye West.mp3
+550:K/Kanye West/808s & Heartbreaks/07 - RoboCop - Kanye West.mp3
+551:K/Kanye West/808s & Heartbreaks/08 - Street Lights - Kanye West.mp3
+552:K/Kanye West/808s & Heartbreaks/09 - Bad News - Kanye West.mp3
+553:K/Kanye West/808s & Heartbreaks/10 - See You In My Nightmares - Kanye West.mp3
+554:K/Kanye West/808s & Heartbreaks/11 - Coldest Winter - Kanye West.mp3
+555:K/Kanye West/The College Dropout/01 Intro.mp3
+556:K/Kanye West/The College Dropout/02 We Don't Care.mp3
+557:K/Kanye West/The College Dropout/03 Graduation Day.mp3
+558:K/Kanye West/The College Dropout/04 All Falls Down.mp3
+559:K/Kanye West/The College Dropout/05 I'll Fly Away.mp3
+560:K/Kanye West/The College Dropout/06 Spaceship.mp3
+561:K/Kanye West/The College Dropout/07 Jesus Walks.mp3
+562:K/Kanye West/The College Dropout/08 Never Let Me Down.mp3
+563:K/Kanye West/The College Dropout/09 Get Em High.mp3
+564:K/Kanye West/The College Dropout/10 Workout Plan.mp3
+565:K/Kanye West/The College Dropout/11 The New Workout Plan.mp3
+566:K/Kanye West/The College Dropout/12 Slow Jamz.mp3
+567:K/Kanye West/The College Dropout/13 Breathe In Breathe Out.mp3
+568:K/Kanye West/The College Dropout/14 School Spirit Skit 1.mp3
+569:K/Kanye West/The College Dropout/15 School Spirit.mp3
+570:K/Kanye West/The College Dropout/16 School Spirit Skit 2.mp3
+571:K/Kanye West/The College Dropout/17 Lil Jimmy Skit.mp3
+572:K/Kanye West/The College Dropout/18 Two Words.mp3
+573:K/Kanye West/The College Dropout/19 Through The Wire.mp3
+574:K/Kanye West/The College Dropout/20 Family Business.mp3
+575:K/Kanye West/The College Dropout/21 Last Call.mp3
+576:L/Lil Nas X/7 EP/01. Old Town Road (feat. Billy Ray Cyrus) [Remix].mp3
+577:L/Lil Nas X/7 EP/02. Panini.mp3
+578:L/Lil Nas X/7 EP/03. F9mily (You & Me).mp3
+579:L/Lil Nas X/7 EP/04. Kick It.mp3
+580:L/Lil Nas X/7 EP/05. Rodeo.mp3
+581:L/Lil Nas X/7 EP/06. Bring U Down.mp3
+582:L/Lil Nas X/7 EP/07. C7osure (You Like).mp3
+583:L/Lil Nas X/7 EP/08. Old Town Road.mp3
+584:L/Logic/Bobby Tarantino/07 Super Mario World.mp3
+585:L/Logic/Under Pressure/01 Intro.mp3
+586:L/Logic/Under Pressure/02 Soul Food.mp3
+587:L/Logic/Under Pressure/03 I'm Gone.mp3
+588:L/Logic/Under Pressure/04 Gang Related.mp3
+589:L/Logic/Under Pressure/05 Buried Alive.mp3
+590:L/Logic/Under Pressure/06 Bounce.mp3
+591:L/Logic/Under Pressure/07 Growing Pains III.mp3
+592:L/Logic/Under Pressure/08 Never Enough.mp3
+593:L/Logic/Under Pressure/09 Metropolis.mp3
+594:L/Logic/Under Pressure/10 Nikki.mp3
+595:L/Logic/Under Pressure/11 Under Pressure.mp3
+596:L/Logic/Under Pressure/12 Till the End.mp3
+597:L/Logic/Under Pressure/13 Driving Ms Daisy (feat. Childish.mp3
+598:L/Logic/Under Pressure/14 Now.mp3
+599:L/Logic/Under Pressure/15 Alright (feat. Big Sean).mp3
+600:L/Logic/Young Sinatra/01 - One.mp3
+601:L/Logic/Young Sinatra/02 - Shine On.mp3
+602:L/Logic/Young Sinatra/03 - 30000.mp3
+603:L/Logic/Young Sinatra/04 - All I Do.mp3
+604:L/Logic/Young Sinatra/05 - Sell Out Records (Skit).mp3
+605:L/Logic/Young Sinatra/06 - Beggin (Feat C Dot Castro).mp3
+606:L/Logic/Young Sinatra/07 - Mind Of Logic (Feat Camille Michelle Gray).mp3
+607:L/Logic/Young Sinatra/08 - Champagne Thoughts (Interlude).mp3
+608:L/Logic/Young Sinatra/09 - Are You Ready (Feat Phil Ade).mp3
+609:L/Logic/Young Sinatra/10 - Highs & Lows.mp3
+610:L/Logic/Young Sinatra/11 - Addiction.mp3
+611:L/Logic/Young Sinatra/12 - Stewie Griffin.mp3
+612:L/Logic/Young Sinatra/13 - Live On The Air.mp3
+613:L/Logic/Young Sinatra/14 - Young Sinatra II.mp3
+614:L/Logic/Young Sinatra/15 - Juice.mp3
+615:L/Logic/Young Sinatra/16 - Prime.mp3
+616:L/Logic/Young Sinatra/17 - Take It Slow (Feat Raheem Devaughn).mp3
+617:L/Logic/Young Sinatra/18 - Let Me Go (Feat Lykke Li).mp3
+618:L/Logic/Young Sinatra/19 - Mixed Feelings.mp3
+619:L/Logic/Young Sinatra/20 - Growing Pains II.mp3
+620:L/Logic/Young Sinatra/21 - As I Am.mp3
+621:L/Logic/Young Sinatra/22 - Just Another Day (In My Mind).mp3
+622:L/Logic/Young Sinatra- Undeniable/01 - Inception.mp3
+623:L/Logic/Young Sinatra- Undeniable/02 - Set The Tone.mp3
+624:L/Logic/Young Sinatra- Undeniable/03 - Dead Presidents III.mp3
+625:L/Logic/Young Sinatra- Undeniable/04 - Used To Hate It.mp3
+626:L/Logic/Young Sinatra- Undeniable/05 - No Biggie.mp3
+627:L/Logic/Young Sinatra- Undeniable/06 - Disgusting (Feat C Dot Castro).mp3
+628:L/Logic/Young Sinatra- Undeniable/07 - Relaxation.mp3
+629:L/Logic/Young Sinatra- Undeniable/08 - Tic Tac Toe.mp3
+630:L/Logic/Young Sinatra- Undeniable/09 - ThirstMail (Skit).mp3
+631:L/Logic/Young Sinatra- Undeniable/10 - The Spotlight.mp3
+632:L/Logic/Young Sinatra- Undeniable/11 - Life Of A Don.mp3
+633:L/Logic/Young Sinatra- Undeniable/12 - We Get High.mp3
+634:L/Logic/Young Sinatra- Undeniable/13 - Numbers.mp3
+635:L/Logic/Young Sinatra- Undeniable/14 - 500 Days Of Summer.mp3
+636:L/Logic/Young Sinatra- Undeniable/15 - What You Want.mp3
+637:L/Logic/Young Sinatra- Undeniable/16 - Do Ya Like.mp3
+638:L/Logic/Young Sinatra- Undeniable/17 - Aye Girl.mp3
+639:L/Logic/Young Sinatra- Undeniable/18 - Young Sinatra III.mp3
+640:L/Logic/Young Sinatra- Undeniable/19 - All Sinatra Everything.mp3
+641:L/Logic/Young Sinatra- Undeniable/20 - Dear God.mp3
+642:L/Logic/Young Sinatra- Undeniable/21 - I Made It.mp3
+643:L/Logic/Young Sinatra- Undeniable/22 - World Wide.mp3
+644:L/Logic/Young Sinatra- Welcome To Forever/01 - Welcome To Forever (ft Jon Bellion) (Prod by 6ix) (DatPiff Exclusive).mp3
+645:L/Logic/Young Sinatra- Welcome To Forever/02 - 925 (Prod by Swiff D) (DatPiff Exclusive).mp3
+646:L/Logic/Young Sinatra- Welcome To Forever/03 - Roll Call (DatPiff Exclusive).mp3
+647:L/Logic/Young Sinatra- Welcome To Forever/04 - 5AM (Prod by C-Sick) (DatPiff Exclusive).mp3
+648:L/Logic/Young Sinatra- Welcome To Forever/05 - Break It Down (ft Jhene Aiko) (Prod by C-Sick) (DatPiff Exclusive).mp3
+649:L/Logic/Young Sinatra- Welcome To Forever/06 - Feel Good (DatPiff Exclusive).mp3
+650:L/Logic/Young Sinatra- Welcome To Forever/07 - Saturday (skit) (ft John  Pops  Witherspoon) (DatPiff Exclusive).mp3
+651:L/Logic/Young Sinatra- Welcome To Forever/08 - On The Low (ft Kid Ink Trinidad Jame) (Prod by Swiff D) (DatPiff Exclusive).mp3
+652:L/Logic/Young Sinatra- Welcome To Forever/09 - Walk On By (Prod by C-Sick) (DatPiff Exclusive).mp3
+653:L/Logic/Young Sinatra- Welcome To Forever/10 - The Come Up (Prod by 6ix) (DatPiff Exclusive).mp3
+654:L/Logic/Young Sinatra- Welcome To Forever/11 - Nasty (Prod by Don Cannon) (DatPiff Exclusive).mp3
+655:L/Logic/Young Sinatra- Welcome To Forever/12 - Life Is Good (Prod by Key Wane) (DatPiff Exclusive).mp3
+656:L/Logic/Young Sinatra- Welcome To Forever/13 - Randolph Returns (skit) (DatPiff Exclusive).mp3
+657:L/Logic/Young Sinatra- Welcome To Forever/14 - Ballin (ft Castro) (Prod by Arthur McArthur) (DatPiff Exclusive).mp3
+658:L/Logic/Young Sinatra- Welcome To Forever/15 - Young Jedi (ft Dizzy Wright) (Prod by 6ix) (DatPiff Exclusive).mp3
+659:L/Logic/Young Sinatra- Welcome To Forever/16 - The High Life (ft Elijah Blake) (Prod by Kevin Randolph) (DatPiff Exclusive).mp3
+660:L/Logic/Young Sinatra- Welcome To Forever/17 - Common Logic   Midnight Marauder (Prod by C-Sick Logic) (DatPiff Exclusive).mp3
+661:L/Logic/Young Sinatra- Welcome To Forever/18 - Just A Man (Prod by Kevin Randolph) (DatPiff Exclusive).mp3
+662:L/Logic/Young Sinatra- Welcome To Forever/19 - Man Of The Year (Prod by NO ID) (DatPiff Exclusive).mp3
+663:L/Logic/Young Sinatra- Welcome To Forever/20 - The End (Prod by Kevin Randolph C-Sick) (DatPiff Exclusive).mp3
+664:L/Logic/Young, Broke, and Infamous/01 - Stain In The Game.mp3
+665:L/Logic/Young, Broke, and Infamous/02 - Nothing But A Hero RMX.mp3
+666:L/Logic/Young, Broke, and Infamous/03 - Young Sinatra.mp3
+667:L/Logic/Young, Broke, and Infamous/04 - I Want It All.mp3
+668:L/Logic/Young, Broke, and Infamous/05 - I Just Wanna.mp3
+669:L/Logic/Young, Broke, and Infamous/06 - Can I Love.mp3
+670:L/Logic/Young, Broke, and Infamous/07 - Love Jones (Skit).mp3
+671:L/Logic/Young, Broke, and Infamous/08 - Love Jones.mp3
+672:L/Logic/Young, Broke, and Infamous/09 - Give It To Me.mp3
+673:L/Logic/Young, Broke, and Infamous/10 - Sunny In The Booth (Skit).mp3
+674:L/Logic/Young, Broke, and Infamous/11 - growing pains.mp3
+675:L/Logic/Young, Broke, and Infamous/12 - Young Broke  Infamous.mp3
+676:L/Logic/Young, Broke, and Infamous/13 - Scenario.mp3
+677:L/Logic/Young, Broke, and Infamous/14 - Ask Em.mp3
+678:L/Logic/Young, Broke, and Infamous/15 - BackPack.mp3
+679:L/Logic/Young, Broke, and Infamous/16 - Sellin Drugs.mp3
+680:L/Logic/Young, Broke, and Infamous/17 - Worthy.mp3
+681:L/Logic/Young, Broke, and Infamous/18 - WordPlay (Bonus).mp3
+682:L/Logic/Young, Broke, and Infamous/19 - Back And Forth Feat C Dot Castro (Bonus).mp3
+683:M/Mac Miller/BALLOONERISM/02. The Song That Changed Everything (feat. SZA).mp3
+684:M/Mac Miller/BALLOONERISM/03. Do You Have a Destination.mp3
+685:M/Mac Miller/BALLOONERISM/14. Smile.mp3
+686:M/Mac Miller/Easy Mac (Leaks and Demos)/Non-zipped Leaks/Say Goodbye.mp3
+687:M/Mac Miller/GOOD-AM/01 Doors.mp3
+688:M/Mac Miller/GOOD-AM/02 Brand Name.mp3
+689:M/Mac Miller/GOOD-AM/03 Rush Hour.mp3
+690:M/Mac Miller/GOOD-AM/04 Two Matches (feat. Ab-Soul).mp3
+691:M/Mac Miller/GOOD-AM/05 100 Grandkids.mp3
+692:M/Mac Miller/GOOD-AM/06 Time Flies (feat. Lil B).mp3
+693:M/Mac Miller/GOOD-AM/07 Weekend (feat. Miguel).mp3
+694:M/Mac Miller/GOOD-AM/08 Clubhouse.mp3
+695:M/Mac Miller/GOOD-AM/09 In The Bag.mp3
+696:M/Mac Miller/GOOD-AM/10 Break The Law.mp3
+697:M/Mac Miller/GOOD-AM/11 Perfect Circle _ God Speed.mp3
+698:M/Mac Miller/GOOD-AM/12 When In Rome.mp3
+699:M/Mac Miller/GOOD-AM/13 ROS.mp3
+700:M/Mac Miller/GOOD-AM/14 Cut The Check (feat. Chief Keef).mp3
+701:M/Mac Miller/GOOD-AM/15 Ascension.mp3
+702:M/Mac Miller/GOOD-AM/16 Jump.mp3
+703:M/Mac Miller/GOOD-AM/17 The Festival (feat. Little Dragon.mp3
+704:M/Mach-Hommy/#foreignOBJECTS EP/01 Beni Swa feat. Bob Marley and Jacob Miller.mp3
+705:M/Mach-Hommy/#foreignOBJECTS EP/02 Kado.mp3
+706:M/Mach-Hommy/#foreignOBJECTS EP/03 Senk Etwal feat. Papa Doc.mp3
+707:M/Mach-Hommy/#wellBREADUCATED/02 Dolorosa.mp3
+708:M/Mach-Hommy/#wellBREADUCATED/03 Lucre (Louder).mp3
+709:M/Mach-Hommy/Bulletproof Luh/01 Grease.mp3
+710:M/Mach-Hommy/Bulletproof Luh/02 Honey Roasted.mp3
+711:M/Mach-Hommy/Bulletproof Luh/03 Open Sesame.mp3
+712:M/Mach-Hommy/Bulletproof Luh/04 Apple Juice.mp3
+713:M/Mach-Hommy/Bulletproof Luh/05 Be Safe.mp3
+714:M/Mach-Hommy/Bulletproof Luh/06 Regina.mp3
+715:M/Mach-Hommy/Bulletproof Luh/07 Yvonne.mp3
+716:M/Mach-Hommy/Bulletproof Luh/08 Fubar.mp3
+717:M/Mach-Hommy/Bulletproof Luh/09 Hidden Bonus Track.mp3
+718:M/Mach-Hommy/Dollar Menu/01 Barnum _ Bailey.mp3
+719:M/Mach-Hommy/Dollar Menu/02 Maslow_s Hammer.mp3
+720:M/Mach-Hommy/Dollar Menu/03 Smoke Signal.mp3
+721:M/Mach-Hommy/Dollar Menu/04 Schroeder.mp3
+722:M/Mach-Hommy/Dollar Menu/05 Rolf Beeler.mp3
+723:M/Mach-Hommy/Dollar Menu/06 Vibin_ Like Muhammad Inside The Bank Safe.mp3
+724:M/Mach-Hommy/Dollar Menu/07 Nardwuar.mp3
+725:M/Mach-Hommy/Dollar Menu 2/01 Acid Reflux.mp3
+726:M/Mach-Hommy/Dollar Menu 2/02 Tape Worms Interlude.mp3
+727:M/Mach-Hommy/Dollar Menu 2/03 Continental Breakfast.mp3
+728:M/Mach-Hommy/Dollar Menu 2/04 d_Shady _ d_Lamp.mp3
+729:M/Mach-Hommy/Dollar Menu 2/05 Tums By The Bhagavad.mp3
+730:M/Mach-Hommy/Dollar Menu 2/06 Cook County.mp3
+731:M/Mach-Hommy/Dollar Menu 2/07 Corner Shot.mp3
+732:M/Mach-Hommy/Dollar Menu 2/08 Brand Finale.mp3
+733:M/Mach-Hommy/Dollar Menu 3/01 $ 111,11 (Beats By Camoflauge Monk).m4a
+734:M/Mach-Hommy/Dollar Menu 3/02 Niggarati Manor (Beats By Farma Beats).mp3
+735:M/Mach-Hommy/Dollar Menu 3/03 Suspended Anime (Beats By Bets).mp3
+736:M/Mach-Hommy/Dollar Menu 3/04 SPF . 45 (Beats By EETS).mp3
+737:M/Mach-Hommy/Dollar Menu 3/05 Chaise Lounge (Beats By Camoflauge Monk).mp3
+738:M/Mach-Hommy/Dollar Menu 3/06 Chicken Milk Bomb (Beats by BECOMING PHIL).m4a
+739:M/Mach-Hommy/Dollar Menu 3/07 Grope Records _ Duppy Media (Beats By EWONEE).mp3
+740:M/Mach-Hommy/Dollar Menu 3/08 Intermittent Spurts (Beats by OHBLIV).mp3
+741:M/Mach-Hommy/Dollar Menu 3/09 Jacob_s Ladder Company 7777 (Beats By DJ PRESERVATION).mp3
+742:M/Mach-Hommy/Dollar Menu 3/10 Zuchinni Blossom Whiff Cheese Grits (Beats by Nicholas Craven).mp3
+743:M/Mach-Hommy/Dollar Menu 3/11 Cento Percento Feat. Heem Stogied (Beats By Nicholas Craven).mp3
+744:M/Mach-Hommy/Dollar Menu 3/12 Sous Vide (Beats by Madlib).mp3
+745:M/Mach-Hommy/Dollar Menu 3/13 Shaytan Shiffled (Beats By Farma Beats).mp3
+746:M/Mach-Hommy/Dump Gawd Hommy Edition/Mach-Hommy - DUMP GAWD- HOMMY EDITION - 01 Rale Bulgarian (Beats by Sadhu Gold).mp3
+747:M/Mach-Hommy/Dump Gawd Hommy Edition/Mach-Hommy - DUMP GAWD- HOMMY EDITION - 02 A Partridge _ A Pear Tree feat. THA GOD FAHIM (Beats by Sage Elsesser).mp3
+748:M/Mach-Hommy/Dump Gawd Hommy Edition/Mach-Hommy - DUMP GAWD- HOMMY EDITION - 03 So Much More (Beats by Alchemist).mp3
+749:M/Mach-Hommy/Dump Gawd Hommy Edition/Mach-Hommy - DUMP GAWD- HOMMY EDITION - 04 Allen Iverson feat. Heem Stogied (Beats by Earl Sweatshirt).mp3
+750:M/Mach-Hommy/Dump Gawd Hommy Edition/Mach-Hommy - DUMP GAWD- HOMMY EDITION - 05 Conchshell feat. THA GOD FAHIM (Beats by Lill Wiardon).mp3
+751:M/Mach-Hommy/Dump Gawd Hommy Edition/Mach-Hommy - DUMP GAWD- HOMMY EDITION - 06 DNA Swab feat. THA GOD FAHIM (Beats by Earl Sweatshirt).mp3
+752:M/Mach-Hommy/Dump Gawd Hommy Edition/Mach-Hommy - DUMP GAWD- HOMMY EDITION - 07 Nothin_ But Net feat. Your Old Droog (Beats by Earl Sweatshirt).mp3
+753:M/Mach-Hommy/Dump Gawd Hommy Edition/Mach-Hommy - DUMP GAWD- HOMMY EDITION - 08 Mac Flurries feat. Heem Stogied (Beats by Sage Elsesser).mp3
+754:M/Mach-Hommy/Dump Gawd Hommy Edition/Mach-Hommy - DUMP GAWD- HOMMY EDITION - 09 Social Media feat.THA GOD FAHIM (Beats by DJ Preservation).mp3
+755:M/Mach-Hommy/Dump Gawd Hommy Edition/Mach-Hommy - DUMP GAWD- HOMMY EDITION - 10 Long Time (Beats by Alchemist).mp3
+756:M/Mach-Hommy/Dump Gawd Hommy Edition/Mach-Hommy - DUMP GAWD- HOMMY EDITION - 11 Rorshach_s feat. THA GOD FAHIM (Beats by Sage Elsesser).mp3
+757:M/Mach-Hommy/DUMP GAWD_ HOMMY EDITION/01 Rale Bulgarian (Beats by Sadhu Gold).mp3
+758:M/Mach-Hommy/DUMP GAWD_ HOMMY EDITION/02 A Partridge _ A Pear Tree feat. THA GOD FAHIM (Beats by Sage Elsesser).mp3
+759:M/Mach-Hommy/DUMP GAWD_ HOMMY EDITION/03 So Much More (Beats by Alchemist).mp3
+760:M/Mach-Hommy/DUMP GAWD_ HOMMY EDITION/04 Allen Iverson feat. Heem Stogied (Beats by Earl Sweatshirt).mp3
+761:M/Mach-Hommy/DUMP GAWD_ HOMMY EDITION/05 Conchshell feat. THA GOD FAHIM (Beats by Lill Wiardon).mp3
+762:M/Mach-Hommy/DUMP GAWD_ HOMMY EDITION/06 DNA Swab feat. THA GOD FAHIM (Beats by Earl Sweatshirt).mp3
+763:M/Mach-Hommy/DUMP GAWD_ HOMMY EDITION/07 Nothin_ But Net feat. Your Old Droog (Beats by Earl Sweatshirt).mp3
+764:M/Mach-Hommy/DUMP GAWD_ HOMMY EDITION/08 Mac Flurries feat. Heem Stogied (Beats by Sage Elsesser).mp3
+765:M/Mach-Hommy/DUMP GAWD_ HOMMY EDITION/09 Social Media feat.THA GOD FAHIM (Beats by DJ Preservation).mp3
+766:M/Mach-Hommy/DUMP GAWD_ HOMMY EDITION/10 Long Time (Beats by Alchemist).mp3
+767:M/Mach-Hommy/DUMP GAWD_ HOMMY EDITION/11 Rorshach_s feat. THA GOD FAHIM (Beats by Sage Elsesser).mp3
+768:M/Mach-Hommy/Dumpmeister/01 Baas-Key-Yacht (feat. JuJu Gotti _ Melanin 9).mp3
+769:M/Mach-Hommy/Dumpmeister/02 Ron van Clief (feat. THA GOD FAHIM).mp3
+770:M/Mach-Hommy/Dumpmeister/03 Bacalao _ Provision (feat. CRIMEAPPLE).mp3
+771:M/Mach-Hommy/Dumpmeister/04 Faraday Cage (feat. Evidence).m4a
+772:M/Mach-Hommy/Dumpmeister/05 Sherwin Williams (feat. Koncept Jack$on).mp3
+773:M/Mach-Hommy/Dumpmeister/06 Gourmandise.m4a
+774:M/Mach-Hommy/Dumpmeister/07 Canary Rhombus (feat. Hus Kingpin).mp3
+775:M/Mach-Hommy/Dumpmeister/08 Quartz Movement.mp3
+776:M/Mach-Hommy/Dumpmeister/09 383 Myrtle (feat. Billy Woods).mp3
+777:M/Mach-Hommy/Dumpmeister/10 Rapunzel! Rapunzel! (feat. Denmark Vessey).mp3
+778:M/Mach-Hommy/Dumpmeister/11 Riviera Ralph (feat. Meyhem Lauren).mp3
+779:M/Mach-Hommy/Dumpmeister/12 Vanilla Reload.mp3
+780:M/Mach-Hommy/Fete Des Morts/01 Henrietta LAX.mp3
+781:M/Mach-Hommy/Fete Des Morts/02 TTFN feat. JuJu Gotti.mp3
+782:M/Mach-Hommy/Fete Des Morts/03 Embarrassment of Riches (Beats by Navy Blue).mp3
+783:M/Mach-Hommy/Fete Des Morts/04 Basin Bleu.mp3
+784:M/Mach-Hommy/Fete Des Morts/05 Carpe DM feat. Kungg Fuu.mp3
+785:M/Mach-Hommy/Fete Des Morts/06 Manje Midi.mp3
+786:M/Mach-Hommy/Fete Des Morts/07 Bride Of The Water G-d.mp3
+787:M/Mach-Hommy/Fete Des Morts/08 THEJIGISUP.mp3
+788:M/Mach-Hommy/Fete Des Morts/09 Kawsality feat. Tha God Fahim (Bonus Track).mp3
+789:M/Mach-Hommy/FYI/01 Midrash.mp3
+790:M/Mach-Hommy/FYI/02 Newark.mp3
+791:M/Mach-Hommy/FYI/03 Laser Guided.mp3
+792:M/Mach-Hommy/FYI/04 Breastmilk.mp3
+793:M/Mach-Hommy/FYI/05 Egypt.mp3
+794:M/Mach-Hommy/FYI/06 Sauter Suite.mp3
+795:M/Mach-Hommy/FYI/07 Gnarly Dudes.mp3
+796:M/Mach-Hommy/FYI/08 Solo Dolo.mp3
+797:M/Mach-Hommy/FYI/09 Wheaties.mp3
+798:M/Mach-Hommy/FYI/10 I Used To Thug Her.mp3
+799:M/Mach-Hommy/FYI/11 Kinglish.mp3
+800:M/Mach-Hommy/FYI/12 Hardwired.mp3
+801:M/Mach-Hommy/Good Grease EP/01 Good.mp3
+802:M/Mach-Hommy/Good Grease EP/02 Kokèt feat. William S. Burroughs.mp3
+803:M/Mach-Hommy/Goon Grizzle/01 INTRO.mp3
+804:M/Mach-Hommy/Goon Grizzle/02 IM HOOD.mp3
+805:M/Mach-Hommy/Goon Grizzle/03 TGV.mp3
+806:M/Mach-Hommy/Goon Grizzle/04 DRESS FOR SUCCESS.mp3
+807:M/Mach-Hommy/Goon Grizzle/05 COREY.mp3
+808:M/Mach-Hommy/Goon Grizzle/06 MONSTER.mp3
+809:M/Mach-Hommy/Goon Grizzle/07 NEW YEARS.mp3
+810:M/Mach-Hommy/Goon Grizzle/08 WHAT_S THE SCIENCE.mp3
+811:M/Mach-Hommy/HBO/01 Ti Geralde.mp3
+812:M/Mach-Hommy/HBO/02 Tunnel Vision.mp3
+813:M/Mach-Hommy/HBO/03 1080p.mp3
+814:M/Mach-Hommy/HBO/04 Plenty.mp3
+815:M/Mach-Hommy/HBO/05 Bey Six.mp3
+816:M/Mach-Hommy/HBO/06 Midnite Xpress (feat. Conway The Machine).mp3
+817:M/Mach-Hommy/HBO/08 Mach Marcy.mp3
+818:M/Mach-Hommy/HBO/09 HBO.mp3
+819:M/Mach-Hommy/HBO/10 Snow Beach.mp3
+820:M/Mach-Hommy/HBO/11 Fresh Off The Boat.mp3
+821:M/Mach-Hommy/HBO/12 Fukk You.mp3
+822:M/Mach-Hommy/HBO/13 Trezeta Air Max.mp3
+823:M/Mach-Hommy/HBO/14 Band Anna.mp3
+824:M/Mach-Hommy/HBO/15 Thank God.mp3
+825:M/Mach-Hommy/HBO/16 Food Pyramid.mp3
+826:M/Mach-Hommy/HBO/17 Kapeesh.mp3
+827:M/Mach-Hommy/HBO/18 Bloody Penthouse.mp3
+828:M/Mach-Hommy/iGRADE/01 Bearskin Rug feat. Marilyn Monroe.mp3
+829:M/Mach-Hommy/iGRADE/02 Sambo Suplex (Rustam Khabilov).mp3
+830:M/Mach-Hommy/Loosies/01 Delta Force feat. Fred Hampton.mp3
+831:M/Mach-Hommy/Loosies/01 Lapriye.mp3
+832:M/Mach-Hommy/Loosies/01 No Pop Filter (feat. Tha God Fahim).mp3
+833:M/Mach-Hommy/Loosies/01 Phi Slamma... featuring Your Old Droog _ Tha God Fahim.mp3
+834:M/Mach-Hommy/Loosies/01 Warning Shot.mp3
+835:M/Mach-Hommy/Luh Hertz/01 x.mp3
+836:M/Mach-Hommy/Luh Hertz/02 xx.mp3
+837:M/Mach-Hommy/Luh Hertz/03 xxx.mp3
+838:M/Mach-Hommy/Luh Hertz/04 xxxx.mp3
+839:M/Mach-Hommy/Luh Hertz/05 xxxxx.mp3
+840:M/Mach-Hommy/Luh Hertz/06 xxxxxx.mp3
+841:M/Mach-Hommy/Luh Hertz/07 xxxxxxx.mp3
+842:M/Mach-Hommy/Luh Hertz/08 xxxxxxxx.mp3
+843:M/Mach-Hommy/May Day/01 Indian Summer.mp3
+844:M/Mach-Hommy/May Day/02 Carbonated Barrettes.mp3
+845:M/Mach-Hommy/Notorious Dump Legends/01 Sportsmen (beats by Tha God Fahim).mp3
+846:M/Mach-Hommy/Notorious Dump Legends/02 Bag Bag (beats by Tha God Fahim).mp3
+847:M/Mach-Hommy/Notorious Dump Legends/03 Toothsome (beats by Tha God Fahim).mp3
+848:M/Mach-Hommy/Notorious Dump Legends/04 Baleen Pocketknife (beats by Earl Sweatshirt).mp3
+849:M/Mach-Hommy/Notorious Dump Legends/05 Füd (feat. Kungg Fuu) (beats by The Architect).mp3
+850:M/Mach-Hommy/Notorious Dump Legends/06 Olympic Fishes (beats by Tha God Fahim).mp3
+851:M/Mach-Hommy/Notorious Dump Legends/07 Foreword (beats by Sadhu Gold).mp3
+852:M/Mach-Hommy/Notorious Dump Legends/08 Army Surplus (beats by Tha God Fahim).mp3
+853:M/Mach-Hommy/Notorious Dump Legends/09 Halcyon Days (beats by Tha God Fahim).mp3
+854:M/Mach-Hommy/Notorious Dump Legends/10 BLK $ (beats by Nicholas Craven).mp3
+855:M/Mach-Hommy/Notorious Dump Legends/11 Tracy Morgan (beats by Tha God Fahim).mp3
+856:M/Mach-Hommy/Notorious Dump Legends/12 Survival Patch (beats by Tha God Fahim).mp3
+857:M/Mach-Hommy/Saturday Night Lights, Vol. 1_2/01 FOH.mp3
+858:M/Mach-Hommy/Saturday Night Lights, Vol. 1_2/02 Breeze.mp3
+859:M/Mach-Hommy/Saturday Night Lights, Vol. 1_2/03 Do It.mp3
+860:M/Mach-Hommy/Saturday Night Lights, Vol. 1_2/04 Saturday Coffee.mp3
+861:M/Mach-Hommy/Saturday Night Lights, Vol. 1_2/05 Felicitations.mp3
+862:M/Mach-Hommy/Saturday Night Lights, Vol. 1_2/06 Valdese.mp3
+863:M/Mach-Hommy/Saturday Night Lights, Vol. 1_2/07 Church feat. JuJu Gotti.mp3
+864:M/Mach-Hommy/Saturday Night Lights, Vol. 1_2/08 Fromaj.mp3
+865:M/Mach-Hommy/THE G.A.T.../01 I.mp3
+866:M/Mach-Hommy/THE G.A.T.../02 II.mp3
+867:M/Mach-Hommy/THE G.A.T.../03 III.mp3
+868:M/Mach-Hommy/THE G.A.T.../04 IV.mp3
+869:M/Mach-Hommy/THE G.A.T.../05 V.mp3
+870:M/Mach-Hommy/THE G.A.T.../06 VI.mp3
+871:M/Mach-Hommy/THE G.A.T.../07 VII.mp3
+872:M/Mach-Hommy/THE G.A.T.../08 VIII.mp3
+873:M/Mach-Hommy/THE G.A.T.../09 IX.mp3
+874:M/Mach-Hommy/THE SPOOK.../01 Tiddly Winks [stx].mp3
+875:M/Mach-Hommy/THE SPOOK.../02 Yeezy Taught H.E.R..mp3
+876:M/Mach-Hommy/THE SPOOK.../03 PTRFMLSBRDG [skby].mp3
+877:M/Mach-Hommy/THE SPOOK.../04 Bon Après-Midi.mp3
+878:M/Mach-Hommy/THE SPOOK.../05 Doot Doot Doot feat. THA GOD FAHIM and Ju Ju Gotti.mp3
+879:M/Mach-Hommy/THE SPOOK.../06 Mouchwa Sal feat. THA GOD FAHIM and JuJu Gotti.mp3
+880:M/Mach-Hommy/THE SPOOK.../07 SHPSHFTR.mp3
+881:M/Mach-Hommy/THE SPOOK.../08 Swiff Premium.mp3
+882:M/Madlib/Sound Ancestors/01-There Is No Time (Prelude).mp3
+883:M/Madlib/Sound Ancestors/02-The Call.mp3
+884:M/Madlib/Sound Ancestors/03-Theme De Crabtree.mp3
+885:M/Madlib/Sound Ancestors/04-Road Of The Lonely Ones.mp3
+886:M/Madlib/Sound Ancestors/05-Loose Goose.mp3
+887:M/Madlib/Sound Ancestors/06-Dirtknock.mp3
+888:M/Madlib/Sound Ancestors/07-Hopprock.mp3
+889:M/Madlib/Sound Ancestors/08-Riddim Chant.mp3
+890:M/Madlib/Sound Ancestors/09-Sound Ancestors.mp3
+891:M/Madlib/Sound Ancestors/10-One For Quartabê ／ Right Now.mp3
+892:M/Madlib/Sound Ancestors/11-Hang Out (Phone Off).mp3
+893:M/Madlib/Sound Ancestors/12-Two For 2 - For Dilla.mp3
+894:M/Madlib/Sound Ancestors/13-Latino Negro.mp3
+895:M/Madlib/Sound Ancestors/14-The New Normal.mp3
+896:M/Madlib/Sound Ancestors/15-Chino.mp3
+897:M/Madlib/Sound Ancestors/16-Duumbiyay.mp3
+898:P/Post Malone/Stoney/01. Broken Whiskey Glass.mp3
+899:P/Post Malone/Stoney/02. Big Lie.mp3
+900:P/Post Malone/Stoney/03. Deja Vu (feat. Justin Bieber).mp3
+901:P/Post Malone/Stoney/04. No Option.mp3
+902:P/Post Malone/Stoney/05. Cold.mp3
+903:P/Post Malone/Stoney/06. White Iverson.mp3
+904:P/Post Malone/Stoney/07. I Fall Apart.mp3
+905:P/Post Malone/Stoney/08. Patient.mp3
+906:P/Post Malone/Stoney/09. Go Flex.mp3
+907:P/Post Malone/Stoney/10. Feel (feat. Kehlani).mp3
+908:P/Post Malone/Stoney/11. Too Young.mp3
+909:P/Post Malone/Stoney/12. Congratulations (feat. Quavo).mp3
+910:P/Post Malone/Stoney/13. Up There.mp3
+911:P/Post Malone/Stoney/14. Yours Truly, Austin Post.mp3
+912:P/Post Malone/Stoney/15. Leave.mp3
+913:P/Post Malone/Stoney/16. Hit This Hard.mp3
+914:P/Post Malone/Stoney/17. Money Made Me Do It (feat. 2 Chainz).mp3
+915:P/Post Malone/Stoney/18. Feeling Whitney.mp3
+916:R/Run The Jewels/RTJ1/01 Run The Jewels.mp3
+917:R/Run The Jewels/RTJ1/02 Banana Clipper feat. Big Boi.mp3
+918:R/Run The Jewels/RTJ1/03 36_ Chain.mp3
+919:R/Run The Jewels/RTJ1/04 DDFH.mp3
+920:R/Run The Jewels/RTJ1/05 Sea Legs.mp3
+921:R/Run The Jewels/RTJ1/06 Job Well Done feat. Until The Ribbon Breaks.mp3
+922:R/Run The Jewels/RTJ1/07 No Come Down.mp3
+923:R/Run The Jewels/RTJ1/08 Get It.mp3
+924:R/Run The Jewels/RTJ1/09 Twin Hype Back feat. Prince Paul as Chest Rockwell.mp3
+925:R/Run The Jewels/RTJ1/10 A Christmas Fucking Miracle.mp3
+926:S/Soundtracks/Suicide Squad_ The Album/02 Sucker For Pain (with Logic_ T.mp3
+927:S/Soundtracks/Suicide Squad_ The Album/04 Standing In The Rain.mp3
+928:S/Soundtracks/Suicide Squad_ The Album/06 Know Better.mp3
+929:S/Soundtracks/Suicide Squad_ The Album/08 Without Me.mp3
+930:T/Tyler The Creator/Flower Boy/001 Foreword.mp3
+931:T/Tyler The Creator/Flower Boy/002 Where This Flower Blooms.mp3
+932:T/Tyler The Creator/Flower Boy/003 Sometimes....mp3
+933:T/Tyler The Creator/Flower Boy/004 See You Again.mp3
+934:T/Tyler The Creator/Flower Boy/005 Who Dat Boy.mp3
+935:T/Tyler The Creator/Flower Boy/006 Pothole.mp3
+936:T/Tyler The Creator/Flower Boy/007 Garden Shed.mp3
+937:T/Tyler The Creator/Flower Boy/008 Boredom.mp3
+938:T/Tyler The Creator/Flower Boy/009 I Aint Got Time!.mp3
+939:T/Tyler The Creator/Flower Boy/010 911 Mr. Lonely.mp3
+940:T/Tyler The Creator/Flower Boy/011 Droppin Seeds.mp3
+941:T/Tyler The Creator/Flower Boy/012 November.mp3
+942:T/Tyler The Creator/Flower Boy/013 Glitter.mp3
+943:T/Tyler The Creator/Flower Boy/014 Enjoy Right Now, Today.mp3
+playlist_end
