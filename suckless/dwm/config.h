@@ -76,6 +76,8 @@ static const char *alsamixercmd[] = {"st", "-e", "alsamixer", NULL};
 static const char *irccmd[] = {"hexchat", NULL};
 static const char *discordcmd[] = {"discord", NULL};
 
+static const char *newsboatcmd[] = {"st", "-e", "newsboat", NULL};
+
 static const Key keys[] = {
 	/* modifier                     key        function        argument */
 	{ MODKEY,                       XK_d,      spawn,          {.v = dmenucmd } },
@@ -101,6 +103,7 @@ static const Key keys[] = {
 	{ MODKEY|ShiftMask,             XK_a,      spawn,      	   {.v = alsamixercmd} },
 	{ MODKEY,                       XK_m,      spawn,      	   {.v = irccmd} },
 	{ MODKEY|ShiftMask,             XK_m,      spawn,      	   {.v = discordcmd} },
+	{ MODKEY,                       XK_n,      spawn,      	   {.v = newsboatcmd} },
 	{ MODKEY,                       XK_e,      setlayout,      {.v = &layouts[2]} },
 	{ MODKEY,                       XK_space,  setlayout,      {0} },
 	{ MODKEY|ShiftMask,             XK_space,  togglefloating, {0} },
